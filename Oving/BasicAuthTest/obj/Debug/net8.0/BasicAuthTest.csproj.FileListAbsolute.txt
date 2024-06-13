@@ -1,0 +1,15 @@
+C:\AibelProgs\Github\Oving\Oving\BasicAuthTest\bin\Debug\net8.0\BasicAuthTest.exe
+C:\AibelProgs\Github\Oving\Oving\BasicAuthTest\bin\Debug\net8.0\BasicAuthTest.deps.json
+C:\AibelProgs\Github\Oving\Oving\BasicAuthTest\bin\Debug\net8.0\BasicAuthTest.runtimeconfig.json
+C:\AibelProgs\Github\Oving\Oving\BasicAuthTest\bin\Debug\net8.0\BasicAuthTest.dll
+C:\AibelProgs\Github\Oving\Oving\BasicAuthTest\bin\Debug\net8.0\BasicAuthTest.pdb
+C:\AibelProgs\Github\Oving\Oving\BasicAuthTest\obj\Debug\net8.0\BasicAuthTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\AibelProgs\Github\Oving\Oving\BasicAuthTest\obj\Debug\net8.0\BasicAuthTest.AssemblyInfoInputs.cache
+C:\AibelProgs\Github\Oving\Oving\BasicAuthTest\obj\Debug\net8.0\BasicAuthTest.AssemblyInfo.cs
+C:\AibelProgs\Github\Oving\Oving\BasicAuthTest\obj\Debug\net8.0\BasicAuthTest.csproj.CoreCompileInputs.cache
+C:\AibelProgs\Github\Oving\Oving\BasicAuthTest\obj\Debug\net8.0\BasicAuthTest.sourcelink.json
+C:\AibelProgs\Github\Oving\Oving\BasicAuthTest\obj\Debug\net8.0\BasicAuthTest.dll
+C:\AibelProgs\Github\Oving\Oving\BasicAuthTest\obj\Debug\net8.0\refint\BasicAuthTest.dll
+C:\AibelProgs\Github\Oving\Oving\BasicAuthTest\obj\Debug\net8.0\BasicAuthTest.pdb
+C:\AibelProgs\Github\Oving\Oving\BasicAuthTest\obj\Debug\net8.0\BasicAuthTest.genruntimeconfig.cache
+C:\AibelProgs\Github\Oving\Oving\BasicAuthTest\obj\Debug\net8.0\ref\BasicAuthTest.dll

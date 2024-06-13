@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\AibelProgs\\Github\\Oving\\Oving\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{58228837-2E02-4D00-A69F-6211939B1555}|BasicAuthTest\\BasicAuthTest.csproj|c:\\aibelprogs\\github\\oving\\oving\\basicauthtest\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58228837-2E02-4D00-A69F-6211939B1555}|BasicAuthTest\\BasicAuthTest.csproj|solutionrelative:basicauthtest\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\AibelProgs\\Github\\Oving\\Oving\\BasicAuthTest\\Program.cs",
+              "RelativeDocumentMoniker": "BasicAuthTest\\Program.cs",
+              "ToolTip": "C:\\AibelProgs\\Github\\Oving\\Oving\\BasicAuthTest\\Program.cs",
+              "RelativeToolTip": "BasicAuthTest\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-13T10:57:28.754Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
