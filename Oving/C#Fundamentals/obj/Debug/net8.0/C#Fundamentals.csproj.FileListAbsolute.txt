@@ -1,0 +1,15 @@
+C:\AibelProgs\Github\Oving\Oving\C#Fundamentals\bin\Debug\net8.0\C#Fundamentals.exe
+C:\AibelProgs\Github\Oving\Oving\C#Fundamentals\bin\Debug\net8.0\C#Fundamentals.deps.json
+C:\AibelProgs\Github\Oving\Oving\C#Fundamentals\bin\Debug\net8.0\C#Fundamentals.runtimeconfig.json
+C:\AibelProgs\Github\Oving\Oving\C#Fundamentals\bin\Debug\net8.0\C#Fundamentals.dll
+C:\AibelProgs\Github\Oving\Oving\C#Fundamentals\bin\Debug\net8.0\C#Fundamentals.pdb
+C:\AibelProgs\Github\Oving\Oving\C#Fundamentals\obj\Debug\net8.0\C#Fundamentals.GeneratedMSBuildEditorConfig.editorconfig
+C:\AibelProgs\Github\Oving\Oving\C#Fundamentals\obj\Debug\net8.0\C#Fundamentals.AssemblyInfoInputs.cache
+C:\AibelProgs\Github\Oving\Oving\C#Fundamentals\obj\Debug\net8.0\C#Fundamentals.AssemblyInfo.cs
+C:\AibelProgs\Github\Oving\Oving\C#Fundamentals\obj\Debug\net8.0\C#Fundamentals.csproj.CoreCompileInputs.cache
+C:\AibelProgs\Github\Oving\Oving\C#Fundamentals\obj\Debug\net8.0\C#Fundamentals.sourcelink.json
+C:\AibelProgs\Github\Oving\Oving\C#Fundamentals\obj\Debug\net8.0\C#Fundamentals.dll
+C:\AibelProgs\Github\Oving\Oving\C#Fundamentals\obj\Debug\net8.0\refint\C#Fundamentals.dll
+C:\AibelProgs\Github\Oving\Oving\C#Fundamentals\obj\Debug\net8.0\C#Fundamentals.pdb
+C:\AibelProgs\Github\Oving\Oving\C#Fundamentals\obj\Debug\net8.0\C#Fundamentals.genruntimeconfig.cache
+C:\AibelProgs\Github\Oving\Oving\C#Fundamentals\obj\Debug\net8.0\ref\C#Fundamentals.dll
